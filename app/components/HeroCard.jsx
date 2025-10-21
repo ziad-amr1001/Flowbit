@@ -118,7 +118,7 @@ export default function HeroCard({ language }) {
               className={`flex w-full items-center justify-center rounded-xl bg-white px-8 py-3 text-base font-black text-black transition duration-300 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black sm:w-auto sm:min-w-[180px] sm:px-10 ${
                 isArabic ? "tracking-[0.08em]" : "uppercase tracking-[0.25em]"
               }`}
-              href="https://wa.me/201102576790"
+              href="https://wa.me/201102576790?text=%D8%A7%D9%87%D9%84%D8%A7%20%D9%88%D8%B3%D9%87%D9%84%D8%A7%20%D8%A7%D8%B1%D9%8A%D8%AF%20%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%20%D8%A7%D9%83%D8%AB%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%0AHello,%20I%20want%20to%20know%20more%20details%20about%20the%20subscription"
               target="_blank"
               rel="noopener noreferrer"
               aria-label={language === "ar" ? "اشتر الآن عبر واتساب" : "Buy flowbit via WhatsApp"}
