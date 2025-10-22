@@ -9,7 +9,7 @@ const content = {
     title: "ChatGPT PRO Activation💎",
     buyNow: "Buy Now",
     detailsButton: "Details",
-    priceLabel: "only for 100 egp per month",
+    priceLabel: "only for 150 egp per month",
     detailsHeading: "Subscription details",
     paragraphs: [
       "💎 What is ChatGPT Pro?",
@@ -40,7 +40,7 @@ const content = {
     title: "تفعيل ChatGPT Pro 💎",
     buyNow: "اشترِ الآن",
     detailsButton: "التفاصيل",
-    priceLabel: "فقط بـ 100 جنيه شهريًا",
+    priceLabel: "فقط بـ 150 جنيه شهريًا",
     detailsHeading: "تفاصيل الاشتراك",
     paragraphs: [
       "🔥 ما هو شات جي بي تي برو؟",
